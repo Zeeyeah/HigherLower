@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HigherLower/static/css/main.7e6dd43c.css",
+    "main.js": "/HigherLower/static/js/main.d7e3879c.js",
+    "index.html": "/HigherLower/index.html",
+    "static/media/wrong.svg": "/HigherLower/static/media/wrong.532f186280082428a00c787a5393cca2.svg",
+    "static/media/correct.svg": "/HigherLower/static/media/correct.1160ae1653bcd05b6a7eafe920221172.svg",
+    "main.7e6dd43c.css.map": "/HigherLower/static/css/main.7e6dd43c.css.map",
+    "main.d7e3879c.js.map": "/HigherLower/static/js/main.d7e3879c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6dd43c.css",
+    "static/js/main.d7e3879c.js"
+  ]
+}

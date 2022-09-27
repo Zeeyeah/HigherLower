@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/HigherLower/static/css/main.b77e8431.css",
-    "main.js": "/HigherLower/static/js/main.72d919f0.js",
+    "main.js": "/HigherLower/static/js/main.99bff9a9.js",
     "static/media/bollywood-logo.svg": "/HigherLower/static/media/bollywood-logo.ccccc84162689a9bef6937299f478aac.svg",
     "index.html": "/HigherLower/index.html",
     "static/media/wrong.svg": "/HigherLower/static/media/wrong.532f186280082428a00c787a5393cca2.svg",
     "static/media/correct.svg": "/HigherLower/static/media/correct.1160ae1653bcd05b6a7eafe920221172.svg",
     "main.b77e8431.css.map": "/HigherLower/static/css/main.b77e8431.css.map",
-    "main.72d919f0.js.map": "/HigherLower/static/js/main.72d919f0.js.map"
+    "main.99bff9a9.js.map": "/HigherLower/static/js/main.99bff9a9.js.map"
   },
   "entrypoints": [
     "static/css/main.b77e8431.css",
-    "static/js/main.72d919f0.js"
+    "static/js/main.99bff9a9.js"
   ]
 }
